@@ -42,4 +42,20 @@
 | [1942-primary-department-for-each-employee](https://github.com/Indhuja2109/Coding-/tree/master/1942-primary-department-for-each-employee) |
 | [2087-confirmation-rate](https://github.com/Indhuja2109/Coding-/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Indhuja2109/Coding-/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Hash Table
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Indhuja2109/Coding-/tree/master/2427-first-letter-to-appear-twice) |
+## String
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Indhuja2109/Coding-/tree/master/2427-first-letter-to-appear-twice) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Indhuja2109/Coding-/tree/master/2427-first-letter-to-appear-twice) |
+## Counting
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Indhuja2109/Coding-/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
