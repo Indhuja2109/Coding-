@@ -43,6 +43,7 @@
 | [1338-queries-quality-and-percentage](https://github.com/Indhuja2109/Coding-/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/Indhuja2109/Coding-/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Indhuja2109/Coding-/tree/master/1415-students-and-examinations) |
+| [1480-movie-rating](https://github.com/Indhuja2109/Coding-/tree/master/1480-movie-rating) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Indhuja2109/Coding-/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Indhuja2109/Coding-/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/Indhuja2109/Coding-/tree/master/1801-average-time-of-process-per-machine) |
