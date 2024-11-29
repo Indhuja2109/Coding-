@@ -3,8 +3,15 @@
  * @return {Function} counter
  */
 var createCounter = function(n) {
-    let count = n;
+    // Define and return a function (closure) that captures `n`
     return function() {
-        return count++;
+        // Return the current value of `n` and then increment it by 1 for the next call
+        return n++;
     };
 };
+/** 
+ * const counter = createCounter(10)
+ * counter() // 10
+ * counter() // 11
+ * counter() // 12
+ */
