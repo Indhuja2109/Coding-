@@ -23,6 +23,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Indhuja2109/Coding-/tree/master/0176-second-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Indhuja2109/Coding-/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/Indhuja2109/Coding-/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Indhuja2109/Coding-/tree/master/0570-managers-with-at-least-5-direct-reports) |
