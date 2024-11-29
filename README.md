@@ -103,4 +103,16 @@
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Indhuja2109/Coding-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Indhuja2109/Coding-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Indhuja2109/Coding-/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Indhuja2109/Coding-/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Indhuja2109/Coding-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
