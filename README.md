@@ -81,6 +81,7 @@
 ## String
 |  |
 | ------- |
+| [0459-repeated-substring-pattern](https://github.com/Indhuja2109/Coding-/tree/master/0459-repeated-substring-pattern) |
 | [2427-first-letter-to-appear-twice](https://github.com/Indhuja2109/Coding-/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
@@ -125,4 +126,8 @@
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Indhuja2109/Coding-/tree/master/2201-valid-arrangement-of-pairs) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Indhuja2109/Coding-/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
