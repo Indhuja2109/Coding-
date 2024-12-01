@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Indhuja2109/Coding-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Indhuja2109/Coding-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Indhuja2109/Coding-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -77,6 +78,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2427-first-letter-to-appear-twice](https://github.com/Indhuja2109/Coding-/tree/master/2427-first-letter-to-appear-twice) |
 ## String
 |  |
@@ -146,4 +148,16 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Indhuja2109/Coding-/tree/master/0572-subtree-of-another-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
+## Binary Search
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
+## Sorting
+|  |
+| ------- |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
