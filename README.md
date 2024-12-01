@@ -83,6 +83,7 @@
 ## String
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Indhuja2109/Coding-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0459-repeated-substring-pattern](https://github.com/Indhuja2109/Coding-/tree/master/0459-repeated-substring-pattern) |
 | [0812-rotate-string](https://github.com/Indhuja2109/Coding-/tree/master/0812-rotate-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Indhuja2109/Coding-/tree/master/2427-first-letter-to-appear-twice) |
@@ -112,6 +113,7 @@
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Indhuja2109/Coding-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Indhuja2109/Coding-/tree/master/0258-add-digits) |
 ## Simulation
 |  |
@@ -167,4 +169,16 @@
 | [1187-print-foobar-alternately](https://github.com/Indhuja2109/Coding-/tree/master/1187-print-foobar-alternately) |
 | [1203-print-in-order](https://github.com/Indhuja2109/Coding-/tree/master/1203-print-in-order) |
 | [1216-print-zero-even-odd](https://github.com/Indhuja2109/Coding-/tree/master/1216-print-zero-even-odd) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Indhuja2109/Coding-/tree/master/0241-different-ways-to-add-parentheses) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Indhuja2109/Coding-/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Indhuja2109/Coding-/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
