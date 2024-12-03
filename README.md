@@ -12,6 +12,7 @@
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Indhuja2109/Coding-/tree/master/0169-majority-element) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/Indhuja2109/Coding-/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Indhuja2109/Coding-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -79,6 +80,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Indhuja2109/Coding-/tree/master/0169-majority-element) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2427-first-letter-to-appear-twice](https://github.com/Indhuja2109/Coding-/tree/master/2427-first-letter-to-appear-twice) |
 ## String
@@ -97,6 +99,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Indhuja2109/Coding-/tree/master/0169-majority-element) |
 | [2427-first-letter-to-appear-twice](https://github.com/Indhuja2109/Coding-/tree/master/2427-first-letter-to-appear-twice) |
 ## Heap (Priority Queue)
 |  |
@@ -168,6 +171,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Indhuja2109/Coding-/tree/master/0169-majority-element) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Concurrency
 |  |
@@ -188,4 +192,8 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Indhuja2109/Coding-/tree/master/0241-different-ways-to-add-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Indhuja2109/Coding-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
