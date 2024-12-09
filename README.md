@@ -17,6 +17,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Indhuja2109/Coding-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Indhuja2109/Coding-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2035-count-sub-islands](https://github.com/Indhuja2109/Coding-/tree/master/2035-count-sub-islands) |
 | [2164-two-best-non-overlapping-events](https://github.com/Indhuja2109/Coding-/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Indhuja2109/Coding-/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Indhuja2109/Coding-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -28,6 +29,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [2035-count-sub-islands](https://github.com/Indhuja2109/Coding-/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Indhuja2109/Coding-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Indhuja2109/Coding-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Indhuja2109/Coding-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
@@ -129,6 +131,7 @@
 ## Matrix
 |  |
 | ------- |
+| [2035-count-sub-islands](https://github.com/Indhuja2109/Coding-/tree/master/2035-count-sub-islands) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Indhuja2109/Coding-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Indhuja2109/Coding-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
@@ -155,6 +158,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Indhuja2109/Coding-/tree/master/0572-subtree-of-another-tree) |
+| [2035-count-sub-islands](https://github.com/Indhuja2109/Coding-/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Indhuja2109/Coding-/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
 |  |
@@ -241,4 +245,8 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Indhuja2109/Coding-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Union Find
+|  |
+| ------- |
+| [2035-count-sub-islands](https://github.com/Indhuja2109/Coding-/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
