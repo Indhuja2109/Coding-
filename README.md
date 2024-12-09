@@ -17,6 +17,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Indhuja2109/Coding-/tree/master/0169-majority-element) |
 | [0539-minimum-time-difference](https://github.com/Indhuja2109/Coding-/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Indhuja2109/Coding-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0731-my-calendar-ii](https://github.com/Indhuja2109/Coding-/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Indhuja2109/Coding-/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/Indhuja2109/Coding-/tree/master/0906-walking-robot-simulation) |
@@ -113,6 +114,7 @@
 | [0169-majority-element](https://github.com/Indhuja2109/Coding-/tree/master/0169-majority-element) |
 | [0432-all-oone-data-structure](https://github.com/Indhuja2109/Coding-/tree/master/0432-all-oone-data-structure) |
 | [0567-permutation-in-string](https://github.com/Indhuja2109/Coding-/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Indhuja2109/Coding-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0906-walking-robot-simulation](https://github.com/Indhuja2109/Coding-/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Indhuja2109/Coding-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Indhuja2109/Coding-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -163,6 +165,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Indhuja2109/Coding-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1325-path-with-maximum-probability](https://github.com/Indhuja2109/Coding-/tree/master/1325-path-with-maximum-probability) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/Indhuja2109/Coding-/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/Indhuja2109/Coding-/tree/master/2164-two-best-non-overlapping-events) |
@@ -271,6 +274,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Indhuja2109/Coding-/tree/master/0169-majority-element) |
 | [0539-minimum-time-difference](https://github.com/Indhuja2109/Coding-/tree/master/0539-minimum-time-difference) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Indhuja2109/Coding-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1256-rank-transform-of-an-array](https://github.com/Indhuja2109/Coding-/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Indhuja2109/Coding-/tree/master/2164-two-best-non-overlapping-events) |
@@ -304,6 +308,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Indhuja2109/Coding-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Indhuja2109/Coding-/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Indhuja2109/Coding-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Indhuja2109/Coding-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -371,6 +376,7 @@
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Indhuja2109/Coding-/tree/master/0567-permutation-in-string) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Indhuja2109/Coding-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Monotonic Stack
 |  |
 | ------- |
