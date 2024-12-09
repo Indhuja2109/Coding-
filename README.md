@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Indhuja2109/Coding-/tree/master/0169-majority-element) |
+| [0539-minimum-time-difference](https://github.com/Indhuja2109/Coding-/tree/master/0539-minimum-time-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Indhuja2109/Coding-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Indhuja2109/Coding-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Indhuja2109/Coding-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0459-repeated-substring-pattern](https://github.com/Indhuja2109/Coding-/tree/master/0459-repeated-substring-pattern) |
+| [0539-minimum-time-difference](https://github.com/Indhuja2109/Coding-/tree/master/0539-minimum-time-difference) |
 | [0812-rotate-string](https://github.com/Indhuja2109/Coding-/tree/master/0812-rotate-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Indhuja2109/Coding-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Indhuja2109/Coding-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -136,6 +138,7 @@
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Indhuja2109/Coding-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Indhuja2109/Coding-/tree/master/0258-add-digits) |
+| [0539-minimum-time-difference](https://github.com/Indhuja2109/Coding-/tree/master/0539-minimum-time-difference) |
 ## Simulation
 |  |
 | ------- |
@@ -193,6 +196,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Indhuja2109/Coding-/tree/master/0169-majority-element) |
+| [0539-minimum-time-difference](https://github.com/Indhuja2109/Coding-/tree/master/0539-minimum-time-difference) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Indhuja2109/Coding-/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuja2109/Coding-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
