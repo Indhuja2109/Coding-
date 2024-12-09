@@ -17,6 +17,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Indhuja2109/Coding-/tree/master/0169-majority-element) |
 | [0539-minimum-time-difference](https://github.com/Indhuja2109/Coding-/tree/master/0539-minimum-time-difference) |
+| [0731-my-calendar-ii](https://github.com/Indhuja2109/Coding-/tree/master/0731-my-calendar-ii) |
 | [0906-walking-robot-simulation](https://github.com/Indhuja2109/Coding-/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/Indhuja2109/Coding-/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Indhuja2109/Coding-/tree/master/1435-xor-queries-of-a-subarray) |
@@ -227,6 +228,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/Indhuja2109/Coding-/tree/master/0731-my-calendar-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Indhuja2109/Coding-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Indhuja2109/Coding-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -272,6 +274,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/Indhuja2109/Coding-/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Indhuja2109/Coding-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Indhuja2109/Coding-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Indhuja2109/Coding-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -292,4 +295,16 @@
 | [2411-spiral-matrix-iv](https://github.com/Indhuja2109/Coding-/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Indhuja2109/Coding-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Indhuja2109/Coding-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Indhuja2109/Coding-/tree/master/0731-my-calendar-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Indhuja2109/Coding-/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Indhuja2109/Coding-/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
