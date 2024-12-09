@@ -29,6 +29,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Indhuja2109/Coding-/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Indhuja2109/Coding-/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Indhuja2109/Coding-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2411-spiral-matrix-iv](https://github.com/Indhuja2109/Coding-/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Indhuja2109/Coding-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuja2109/Coding-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Indhuja2109/Coding-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -149,6 +150,7 @@
 | [2035-count-sub-islands](https://github.com/Indhuja2109/Coding-/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Indhuja2109/Coding-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Indhuja2109/Coding-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2411-spiral-matrix-iv](https://github.com/Indhuja2109/Coding-/tree/master/2411-spiral-matrix-iv) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Indhuja2109/Coding-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Shortest Path
 |  |
@@ -174,6 +176,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/Indhuja2109/Coding-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Indhuja2109/Coding-/tree/master/2155-find-missing-observations) |
 | [2232-adding-spaces-to-a-string](https://github.com/Indhuja2109/Coding-/tree/master/2232-adding-spaces-to-a-string) |
+| [2411-spiral-matrix-iv](https://github.com/Indhuja2109/Coding-/tree/master/2411-spiral-matrix-iv) |
 ## Number Theory
 |  |
 | ------- |
@@ -284,5 +287,6 @@
 |  |
 | ------- |
 | [1484-linked-list-in-binary-tree](https://github.com/Indhuja2109/Coding-/tree/master/1484-linked-list-in-binary-tree) |
+| [2411-spiral-matrix-iv](https://github.com/Indhuja2109/Coding-/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Indhuja2109/Coding-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 <!---LeetCode Topics End-->
