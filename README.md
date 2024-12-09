@@ -8,6 +8,7 @@
 | [2201-valid-arrangement-of-pairs](https://github.com/Indhuja2109/Coding-/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Indhuja2109/Coding-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Indhuja2109/Coding-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2803-modify-graph-edge-weights](https://github.com/Indhuja2109/Coding-/tree/master/2803-modify-graph-edge-weights) |
 | [3189-find-champion-ii](https://github.com/Indhuja2109/Coding-/tree/master/3189-find-champion-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Indhuja2109/Coding-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Array
@@ -130,6 +131,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Indhuja2109/Coding-/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Indhuja2109/Coding-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Indhuja2109/Coding-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2803-modify-graph-edge-weights](https://github.com/Indhuja2109/Coding-/tree/master/2803-modify-graph-edge-weights) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +143,7 @@
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Indhuja2109/Coding-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Indhuja2109/Coding-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2803-modify-graph-edge-weights](https://github.com/Indhuja2109/Coding-/tree/master/2803-modify-graph-edge-weights) |
 ## Math
 |  |
 | ------- |
