@@ -18,6 +18,7 @@
 | [0169-majority-element](https://github.com/Indhuja2109/Coding-/tree/master/0169-majority-element) |
 | [0539-minimum-time-difference](https://github.com/Indhuja2109/Coding-/tree/master/0539-minimum-time-difference) |
 | [0731-my-calendar-ii](https://github.com/Indhuja2109/Coding-/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Indhuja2109/Coding-/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/Indhuja2109/Coding-/tree/master/0906-walking-robot-simulation) |
 | [1325-path-with-maximum-probability](https://github.com/Indhuja2109/Coding-/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Indhuja2109/Coding-/tree/master/1435-xor-queries-of-a-subarray) |
@@ -291,6 +292,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0859-design-circular-deque](https://github.com/Indhuja2109/Coding-/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Indhuja2109/Coding-/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Indhuja2109/Coding-/tree/master/2411-spiral-matrix-iv) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Indhuja2109/Coding-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -299,6 +301,7 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Indhuja2109/Coding-/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Indhuja2109/Coding-/tree/master/0859-design-circular-deque) |
 ## Segment Tree
 |  |
 | ------- |
@@ -307,4 +310,8 @@
 |  |
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Indhuja2109/Coding-/tree/master/0731-my-calendar-ii) |
+## Queue
+|  |
+| ------- |
+| [0859-design-circular-deque](https://github.com/Indhuja2109/Coding-/tree/master/0859-design-circular-deque) |
 <!---LeetCode Topics End-->
