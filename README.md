@@ -47,6 +47,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Indhuja2109/Coding-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Indhuja2109/Coding-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Indhuja2109/Coding-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2554-minimum-total-distance-traveled](https://github.com/Indhuja2109/Coding-/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Indhuja2109/Coding-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Indhuja2109/Coding-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Indhuja2109/Coding-/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -321,6 +322,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Indhuja2109/Coding-/tree/master/2164-two-best-non-overlapping-events) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Indhuja2109/Coding-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2554-minimum-total-distance-traveled](https://github.com/Indhuja2109/Coding-/tree/master/2554-minimum-total-distance-traveled) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Indhuja2109/Coding-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Indhuja2109/Coding-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuja2109/Coding-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -339,6 +341,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Indhuja2109/Coding-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Indhuja2109/Coding-/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Indhuja2109/Coding-/tree/master/2164-two-best-non-overlapping-events) |
+| [2554-minimum-total-distance-traveled](https://github.com/Indhuja2109/Coding-/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Indhuja2109/Coding-/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Indhuja2109/Coding-/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Recursion
