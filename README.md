@@ -21,6 +21,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Indhuja2109/Coding-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Indhuja2109/Coding-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Indhuja2109/Coding-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Indhuja2109/Coding-/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Indhuja2109/Coding-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Indhuja2109/Coding-/tree/master/2164-two-best-non-overlapping-events) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Indhuja2109/Coding-/tree/master/0258-add-digits) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Indhuja2109/Coding-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Indhuja2109/Coding-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Indhuja2109/Coding-/tree/master/2232-adding-spaces-to-a-string) |
 ## Number Theory
@@ -209,6 +211,7 @@
 | ------- |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Indhuja2109/Coding-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Indhuja2109/Coding-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2164-two-best-non-overlapping-events](https://github.com/Indhuja2109/Coding-/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuja2109/Coding-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3427-special-array-ii](https://github.com/Indhuja2109/Coding-/tree/master/3427-special-array-ii) |
@@ -253,6 +256,7 @@
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/Indhuja2109/Coding-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Indhuja2109/Coding-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Indhuja2109/Coding-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [3427-special-array-ii](https://github.com/Indhuja2109/Coding-/tree/master/3427-special-array-ii) |
 ## Brainteaser
 |  |
