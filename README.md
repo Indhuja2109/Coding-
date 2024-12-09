@@ -37,6 +37,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Indhuja2109/Coding-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Indhuja2109/Coding-/tree/master/2411-spiral-matrix-iv) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Indhuja2109/Coding-/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Indhuja2109/Coding-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuja2109/Coding-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Indhuja2109/Coding-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3427-special-array-ii](https://github.com/Indhuja2109/Coding-/tree/master/3427-special-array-ii) |
@@ -116,6 +117,7 @@
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Indhuja2109/Coding-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Indhuja2109/Coding-/tree/master/1694-make-sum-divisible-by-p) |
 | [2427-first-letter-to-appear-twice](https://github.com/Indhuja2109/Coding-/tree/master/2427-first-letter-to-appear-twice) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Indhuja2109/Coding-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuja2109/Coding-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Indhuja2109/Coding-/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
@@ -234,6 +236,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Indhuja2109/Coding-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2232-adding-spaces-to-a-string](https://github.com/Indhuja2109/Coding-/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Indhuja2109/Coding-/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Indhuja2109/Coding-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Indhuja2109/Coding-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Binary Search
 |  |
@@ -253,6 +256,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/Indhuja2109/Coding-/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/Indhuja2109/Coding-/tree/master/2164-two-best-non-overlapping-events) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/Indhuja2109/Coding-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuja2109/Coding-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Concurrency
 |  |
