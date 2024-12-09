@@ -135,6 +135,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Indhuja2109/Coding-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/Indhuja2109/Coding-/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Indhuja2109/Coding-/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Indhuja2109/Coding-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Indhuja2109/Coding-/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Indhuja2109/Coding-/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Indhuja2109/Coding-/tree/master/2427-first-letter-to-appear-twice) |
@@ -242,6 +243,7 @@
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Indhuja2109/Coding-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1923-sentence-similarity-iii](https://github.com/Indhuja2109/Coding-/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Indhuja2109/Coding-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Indhuja2109/Coding-/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Indhuja2109/Coding-/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Indhuja2109/Coding-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -293,6 +295,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Indhuja2109/Coding-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuja2109/Coding-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Prefix Sum
 |  |
@@ -348,6 +351,7 @@
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Indhuja2109/Coding-/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Indhuja2109/Coding-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Indhuja2109/Coding-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
