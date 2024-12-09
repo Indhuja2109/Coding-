@@ -4,6 +4,7 @@
 ## Graph
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Indhuja2109/Coding-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Indhuja2109/Coding-/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Indhuja2109/Coding-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Indhuja2109/Coding-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Indhuja2109/Coding-/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Indhuja2109/Coding-/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Indhuja2109/Coding-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Indhuja2109/Coding-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2427-first-letter-to-appear-twice](https://github.com/Indhuja2109/Coding-/tree/master/2427-first-letter-to-appear-twice) |
@@ -158,6 +160,7 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Indhuja2109/Coding-/tree/master/0572-subtree-of-another-tree) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Indhuja2109/Coding-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/Indhuja2109/Coding-/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Indhuja2109/Coding-/tree/master/2201-valid-arrangement-of-pairs) |
 ## Eulerian Circuit
@@ -248,5 +251,6 @@
 ## Union Find
 |  |
 | ------- |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/Indhuja2109/Coding-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [2035-count-sub-islands](https://github.com/Indhuja2109/Coding-/tree/master/2035-count-sub-islands) |
 <!---LeetCode Topics End-->
