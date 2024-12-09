@@ -20,6 +20,7 @@
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Indhuja2109/Coding-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuja2109/Coding-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Indhuja2109/Coding-/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [3427-special-array-ii](https://github.com/Indhuja2109/Coding-/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Indhuja2109/Coding-/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Breadth-First Search
 |  |
@@ -180,6 +181,7 @@
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Indhuja2109/Coding-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/Indhuja2109/Coding-/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuja2109/Coding-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3427-special-array-ii](https://github.com/Indhuja2109/Coding-/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -215,4 +217,8 @@
 |  |
 | ------- |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuja2109/Coding-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3427-special-array-ii](https://github.com/Indhuja2109/Coding-/tree/master/3427-special-array-ii) |
 <!---LeetCode Topics End-->
