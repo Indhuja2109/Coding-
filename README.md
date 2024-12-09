@@ -149,6 +149,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/Indhuja2109/Coding-/tree/master/2427-first-letter-to-appear-twice) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Indhuja2109/Coding-/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Indhuja2109/Coding-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3195-separate-black-and-white-balls](https://github.com/Indhuja2109/Coding-/tree/master/3195-separate-black-and-white-balls) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -261,6 +262,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Indhuja2109/Coding-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Indhuja2109/Coding-/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Indhuja2109/Coding-/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
+| [3195-separate-black-and-white-balls](https://github.com/Indhuja2109/Coding-/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
 | ------- |
@@ -316,6 +318,7 @@
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Indhuja2109/Coding-/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Indhuja2109/Coding-/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Indhuja2109/Coding-/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [3195-separate-black-and-white-balls](https://github.com/Indhuja2109/Coding-/tree/master/3195-separate-black-and-white-balls) |
 ## Prefix Sum
 |  |
 | ------- |
