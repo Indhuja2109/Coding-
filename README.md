@@ -23,6 +23,7 @@
 | [1325-path-with-maximum-probability](https://github.com/Indhuja2109/Coding-/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Indhuja2109/Coding-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Indhuja2109/Coding-/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Indhuja2109/Coding-/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Indhuja2109/Coding-/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/Indhuja2109/Coding-/tree/master/2035-count-sub-islands) |
@@ -305,6 +306,7 @@
 | [0432-all-oone-data-structure](https://github.com/Indhuja2109/Coding-/tree/master/0432-all-oone-data-structure) |
 | [0731-my-calendar-ii](https://github.com/Indhuja2109/Coding-/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Indhuja2109/Coding-/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Indhuja2109/Coding-/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
@@ -321,4 +323,8 @@
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Indhuja2109/Coding-/tree/master/0432-all-oone-data-structure) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Indhuja2109/Coding-/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
