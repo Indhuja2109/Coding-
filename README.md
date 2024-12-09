@@ -102,6 +102,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Indhuja2109/Coding-/tree/master/0169-majority-element) |
+| [0432-all-oone-data-structure](https://github.com/Indhuja2109/Coding-/tree/master/0432-all-oone-data-structure) |
 | [0906-walking-robot-simulation](https://github.com/Indhuja2109/Coding-/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Indhuja2109/Coding-/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Indhuja2109/Coding-/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -292,6 +293,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Indhuja2109/Coding-/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/Indhuja2109/Coding-/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Indhuja2109/Coding-/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/Indhuja2109/Coding-/tree/master/2411-spiral-matrix-iv) |
@@ -300,6 +302,7 @@
 ## Design
 |  |
 | ------- |
+| [0432-all-oone-data-structure](https://github.com/Indhuja2109/Coding-/tree/master/0432-all-oone-data-structure) |
 | [0731-my-calendar-ii](https://github.com/Indhuja2109/Coding-/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Indhuja2109/Coding-/tree/master/0859-design-circular-deque) |
 ## Segment Tree
@@ -314,4 +317,8 @@
 |  |
 | ------- |
 | [0859-design-circular-deque](https://github.com/Indhuja2109/Coding-/tree/master/0859-design-circular-deque) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Indhuja2109/Coding-/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
