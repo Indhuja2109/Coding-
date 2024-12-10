@@ -153,6 +153,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Indhuja2109/Coding-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0459-repeated-substring-pattern](https://github.com/Indhuja2109/Coding-/tree/master/0459-repeated-substring-pattern) |
 | [0539-minimum-time-difference](https://github.com/Indhuja2109/Coding-/tree/master/0539-minimum-time-difference) |
+| [0564-find-the-closest-palindrome](https://github.com/Indhuja2109/Coding-/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Indhuja2109/Coding-/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/Indhuja2109/Coding-/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Indhuja2109/Coding-/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -230,6 +231,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Indhuja2109/Coding-/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/Indhuja2109/Coding-/tree/master/0258-add-digits) |
 | [0539-minimum-time-difference](https://github.com/Indhuja2109/Coding-/tree/master/0539-minimum-time-difference) |
+| [0564-find-the-closest-palindrome](https://github.com/Indhuja2109/Coding-/tree/master/0564-find-the-closest-palindrome) |
 | [0670-maximum-swap](https://github.com/Indhuja2109/Coding-/tree/master/0670-maximum-swap) |
 | [2155-find-missing-observations](https://github.com/Indhuja2109/Coding-/tree/master/2155-find-missing-observations) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Indhuja2109/Coding-/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
