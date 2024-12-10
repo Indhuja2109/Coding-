@@ -167,6 +167,7 @@
 | [1923-sentence-similarity-iii](https://github.com/Indhuja2109/Coding-/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Indhuja2109/Coding-/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Indhuja2109/Coding-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Indhuja2109/Coding-/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/Indhuja2109/Coding-/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Indhuja2109/Coding-/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Indhuja2109/Coding-/tree/master/2427-first-letter-to-appear-twice) |
@@ -258,6 +259,7 @@
 | [1484-linked-list-in-binary-tree](https://github.com/Indhuja2109/Coding-/tree/master/1484-linked-list-in-binary-tree) |
 | [2035-count-sub-islands](https://github.com/Indhuja2109/Coding-/tree/master/2035-count-sub-islands) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Indhuja2109/Coding-/tree/master/2201-valid-arrangement-of-pairs) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Indhuja2109/Coding-/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Indhuja2109/Coding-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Indhuja2109/Coding-/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Eulerian Circuit
@@ -277,6 +279,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Indhuja2109/Coding-/tree/master/0572-subtree-of-another-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Indhuja2109/Coding-/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/Indhuja2109/Coding-/tree/master/1484-linked-list-in-binary-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Indhuja2109/Coding-/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Indhuja2109/Coding-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Indhuja2109/Coding-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Indhuja2109/Coding-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -287,6 +290,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Indhuja2109/Coding-/tree/master/0572-subtree-of-another-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Indhuja2109/Coding-/tree/master/0988-flip-equivalent-binary-trees) |
 | [1484-linked-list-in-binary-tree](https://github.com/Indhuja2109/Coding-/tree/master/1484-linked-list-in-binary-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Indhuja2109/Coding-/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Indhuja2109/Coding-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Indhuja2109/Coding-/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Indhuja2109/Coding-/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
