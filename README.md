@@ -28,6 +28,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Indhuja2109/Coding-/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Indhuja2109/Coding-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Indhuja2109/Coding-/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Indhuja2109/Coding-/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Indhuja2109/Coding-/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Indhuja2109/Coding-/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/Indhuja2109/Coding-/tree/master/1694-make-sum-divisible-by-p) |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Indhuja2109/Coding-/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Indhuja2109/Coding-/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2035-count-sub-islands](https://github.com/Indhuja2109/Coding-/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Indhuja2109/Coding-/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Indhuja2109/Coding-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
