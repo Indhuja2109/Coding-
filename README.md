@@ -19,6 +19,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Indhuja2109/Coding-/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Indhuja2109/Coding-/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Indhuja2109/Coding-/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Indhuja2109/Coding-/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Indhuja2109/Coding-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0731-my-calendar-ii](https://github.com/Indhuja2109/Coding-/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Indhuja2109/Coding-/tree/master/0859-design-circular-deque) |
@@ -133,6 +134,7 @@
 | [0264-ugly-number-ii](https://github.com/Indhuja2109/Coding-/tree/master/0264-ugly-number-ii) |
 | [0432-all-oone-data-structure](https://github.com/Indhuja2109/Coding-/tree/master/0432-all-oone-data-structure) |
 | [0525-contiguous-array](https://github.com/Indhuja2109/Coding-/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Indhuja2109/Coding-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Indhuja2109/Coding-/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Indhuja2109/Coding-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0906-walking-robot-simulation](https://github.com/Indhuja2109/Coding-/tree/master/0906-walking-robot-simulation) |
@@ -409,6 +411,7 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Indhuja2109/Coding-/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Indhuja2109/Coding-/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Indhuja2109/Coding-/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Indhuja2109/Coding-/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Indhuja2109/Coding-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Indhuja2109/Coding-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
