@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Indhuja2109/Coding-/tree/master/0169-majority-element) |
+| [0218-the-skyline-problem](https://github.com/Indhuja2109/Coding-/tree/master/0218-the-skyline-problem) |
 | [0303-range-sum-query-immutable](https://github.com/Indhuja2109/Coding-/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Indhuja2109/Coding-/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Indhuja2109/Coding-/tree/master/0539-minimum-time-difference) |
@@ -208,6 +209,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Indhuja2109/Coding-/tree/master/0218-the-skyline-problem) |
 | [0264-ugly-number-ii](https://github.com/Indhuja2109/Coding-/tree/master/0264-ugly-number-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Indhuja2109/Coding-/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/Indhuja2109/Coding-/tree/master/1304-longest-happy-string) |
@@ -399,6 +401,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Indhuja2109/Coding-/tree/master/0169-majority-element) |
+| [0218-the-skyline-problem](https://github.com/Indhuja2109/Coding-/tree/master/0218-the-skyline-problem) |
 ## Greedy
 |  |
 | ------- |
@@ -455,10 +458,12 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Indhuja2109/Coding-/tree/master/0218-the-skyline-problem) |
 | [0731-my-calendar-ii](https://github.com/Indhuja2109/Coding-/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Indhuja2109/Coding-/tree/master/0218-the-skyline-problem) |
 | [0731-my-calendar-ii](https://github.com/Indhuja2109/Coding-/tree/master/0731-my-calendar-ii) |
 ## Queue
 |  |
@@ -504,4 +509,12 @@
 |  |
 | ------- |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Indhuja2109/Coding-/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Indhuja2109/Coding-/tree/master/0218-the-skyline-problem) |
+## Line Sweep
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Indhuja2109/Coding-/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
