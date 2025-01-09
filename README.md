@@ -50,6 +50,7 @@
 | [2164-two-best-non-overlapping-events](https://github.com/Indhuja2109/Coding-/tree/master/2164-two-best-non-overlapping-events) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Indhuja2109/Coding-/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/Indhuja2109/Coding-/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Indhuja2109/Coding-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Indhuja2109/Coding-/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Indhuja2109/Coding-/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Indhuja2109/Coding-/tree/master/2411-spiral-matrix-iv) |
@@ -185,6 +186,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Indhuja2109/Coding-/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Indhuja2109/Coding-/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2232-adding-spaces-to-a-string](https://github.com/Indhuja2109/Coding-/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Indhuja2109/Coding-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Indhuja2109/Coding-/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2427-first-letter-to-appear-twice](https://github.com/Indhuja2109/Coding-/tree/master/2427-first-letter-to-appear-twice) |
 | [2580-circular-sentence](https://github.com/Indhuja2109/Coding-/tree/master/2580-circular-sentence) |
@@ -303,6 +305,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Indhuja2109/Coding-/tree/master/0572-subtree-of-another-tree) |
 | [0812-rotate-string](https://github.com/Indhuja2109/Coding-/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Indhuja2109/Coding-/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Indhuja2109/Coding-/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Tree
 |  |
 | ------- |
