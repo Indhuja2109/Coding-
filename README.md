@@ -17,6 +17,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Indhuja2109/Coding-/tree/master/0169-majority-element) |
 | [0218-the-skyline-problem](https://github.com/Indhuja2109/Coding-/tree/master/0218-the-skyline-problem) |
+| [0260-single-number-iii](https://github.com/Indhuja2109/Coding-/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/Indhuja2109/Coding-/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Indhuja2109/Coding-/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/Indhuja2109/Coding-/tree/master/0539-minimum-time-difference) |
@@ -197,6 +198,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0260-single-number-iii](https://github.com/Indhuja2109/Coding-/tree/master/0260-single-number-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Indhuja2109/Coding-/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Indhuja2109/Coding-/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Indhuja2109/Coding-/tree/master/2059-unique-length-3-palindromic-subsequences) |
